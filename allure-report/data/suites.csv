@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6852","@Web pop up valiadtion","","2026-06-12","passed","2026-06-12","","Sec10v50Morevalidation.spec.js","",""
+"","3028","@Web Screenshot & visual validation","","2026-06-12","passed","2026-06-12","","Sec10v50Morevalidation.spec.js","",""

@@ -1,0 +1,23 @@
+{
+  "name": "playwrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "WebAPIPart2": "npx playwright test tests/WebAPIPart2.spec.js",
+    "webtest": "npx playwright test --grep \"@Web\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@azure/identity": "^4.13.1",
+    "@azure/playwright": "^1.1.6",
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2",
+    "allure-commandline": "^2.42.1",
+    "allure-playwright": "^3.10.0",
+    "typescript": "^6.0.3"
+  }
+}
